@@ -1,6 +1,7 @@
 {
   "Name": "Erythromycin-Model",
   "Version": 81,
+  "ApplicationName": "PK-Sim",
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -32699,6 +32700,5 @@
         "Treatment_Olkkola1993_Oral"
       ]
     }
-  ],
-  "ApplicationName": "PK-Sim"
+  ]
 }

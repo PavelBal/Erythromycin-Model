@@ -9867,13 +9867,6 @@
       ],
       "Parameters": [
         {
-          "Path": "Erythromycin|Blood/Plasma concentration ratio",
-          "Value": 1.6853241644,
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
           "Path": "Events|Oral_250mg_Josefsson1982a|Erythromycin_Weibull_enteric-coated-pellets|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 2.607562,
           "Unit": "ml/kg",
@@ -10190,13 +10183,6 @@
         }
       ],
       "Parameters": [
-        {
-          "Path": "Erythromycin|Blood/Plasma concentration ratio",
-          "Value": 1.6853241644,
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
         {
           "Path": "Events|Oral_500mg_Josefsson1982a|Erythromycin_Weibull_enteric-coated-pellets|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 2.607562,
